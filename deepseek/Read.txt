@@ -1,0 +1,4 @@
+Run these commands in cmd-
+ollama sercve - to start ollama server in local
+ollama list - to check if it is working or not
+use postman to hit apis
